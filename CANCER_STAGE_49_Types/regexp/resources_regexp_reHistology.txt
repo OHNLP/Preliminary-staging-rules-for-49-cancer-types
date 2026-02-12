@@ -1,0 +1,98 @@
+regex:bronchoalveolar carcinoma
+regex:cardinoma NOS
+regex:Adenocarcinoma
+regex:Non(\s*|-)small(\s*|-)cell
+regex:NSCC
+regex:NSCC NOS
+regex:Large cell neuroendocrine
+regex:large cell
+regex:LCNEC
+regex:neuroendocrine
+regex:LCNEM
+regex:Squamous
+regex:larger neuroendocrine
+regex:Large neuroendocrine
+regex:small(\s*|-)cell
+regex:Adenosquamous
+regex:typical carcinoid
+regex:atypical carcinoid
+regex:carcinoid
+regex:Large cell
+regex:Lepidic adenocarcinoma
+regex:Acinar adenocarcinoma
+regex:Papillary adenocarcinoma
+regex:Micropapillary adenocarcinoma
+regex:Solid adenocarcinoma
+regex:Invasive mucinous adenocarcinoma
+regex:Mixed invasive mucinous adenocarcinoma
+regex:Mixed invasive nonmucinous adenocarcinoma
+regex:Colloid adenocarcinoma
+regex:Fetal adenocarcinoma
+regex:Enteric adenocarcinoma
+regex:Minimally invasive adenocarcinoma
+regex:Preinvasive lesions
+regex:Adenocarcinoma in situ
+regex:Keratinizing squamous cell carcinoma
+regex:Nonkeratinizing squamous cell carcinoma
+regex:Basaloid squamous cell carcinoma
+regex:Squamous cell carcinoma in situ
+regex:Combined small cell
+regex:Large cell neuroendocrine
+regex:Combined large cell neuroendocrine
+regex:Preinvasive lesion
+regex:Sarcomatoid
+regex:Pleomorphic carcinoma
+regex:Spindle cell carcinoma
+regex:Giant cell carcinoma
+regex:Pulmonary blastoma
+regex:Lymphoepithelioma-like carcinoma
+regex:Nuclear protein in testis carcinoma
+regex:NUT carcinoma
+regex:Salivary gland-type
+regex:Mucoepidermoid carcinoma
+regex:Adenoid cystic carcinoma
+regex:Epithelial-myoepithelial carcinoma
+regex:BASAL CELL CARCINOMA NODULAR
+regex:BASAL CELL CARCINOMA NOS
+regex:BOWEN DISEASE
+regex:CHORDOMA|OSTEOSARCOMA
+regex:CHONDROBLASTIC OSTEOSARCOMA
+regex:CHONDROBLASTOMA(\s+\S+){0,3}MALIGNANT
+regex:MALIGNANT(\s+\S+){0,3} CHONDROBLASTOMA
+regex:lymphoma
+regex:dendritic cell neoplasm
+regex:Mast cell sarcoma
+regex:Mast cell sarcoma
+regex:leukemia
+regex:Langerhans cell histiocytosis
+regex:Histiocytic sarcoma
+regex:Langerhans cell sarcoma
+regex:myeloid neoplasms
+regex:panmyelosis
+Polycythemia vera
+regex:Primary myelofibrosis
+regex:thrombocythemia
+regex:lymphoid neoplasms
+regex:myeloproliferative neoplasm
+regex:Refractory neutropenia
+regex:Refractory thrombocytopenia
+regex:Myeloid sarcoma
+regex:reticular cell tumor
+regex:MYELOMA
+regex:Kaposi's sarcoma
+regex:GLIOSARCOMA
+regex:GLIOMA(\s+\S+){0,3} MALIGNANT
+regex:MALIGNANT(\s+\S+){0,3} GLIOMA
+regex:DYSEMBRYOPLASTIC NEUROEPITHELIAL
+regex:MENINGIOMA
+regex:ASTROCYTOMA
+regex:MEDULLOBLASTOMA
+regex:ASTROBLASTOMA
+regex:MEDULLARY CARCINOMA
+regex:TERATOID
+regex:RHABDOID
+regex:CENTRAL NEUROCYTOMA
+regex:CENTRAL OSTEOSARCOMA
+regex:GLOMANGIOSARCOMA
+regex:ANGIOMATOID FIBROUS HISTIOCYT MALIGNANT
+regex:Angiomatoid fibrous histiocytoma
